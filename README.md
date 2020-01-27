@@ -2,6 +2,7 @@
 repositorio de OSPOS 
 For this version an upgrade is required:
 
+Update from 3.3.0 to 3.3.1
 WARNING: Always a good idea to do a backup previous to an upgrade. This is not an exception.
 
 Backup your database.
